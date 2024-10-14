@@ -54,7 +54,7 @@ def main():
     """, unsafe_allow_html=True)
 
     # Title with styling
-    st.markdown("<h1 class='title'>General Calculator</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 class='title'>General Enhanced Calculator</h1>", unsafe_allow_html=True)
     st.write("A stylish, user-friendly calculator powered by **Streamlit**.")
 
     # Side-by-side input layout
